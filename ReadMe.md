@@ -17,4 +17,4 @@ This Power BI dashboard provides a comprehensive overview of healthcare facility
 
 ## Screenshots
 
-[https://github.com/amithmgurumallapal/dataviz/blob/b483b5d4e4705763f02b3abe441b190e161abd01/healthcare%20dashboard%20img.png]
+![My Dashboard Image](https://github.com/amithmgurumallapal/dataviz/blob/b483b5d4e4705763f02b3abe441b190e161abd01/healthcare%20dashboard%20img.png)
