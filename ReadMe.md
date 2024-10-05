@@ -4,9 +4,9 @@ This Power BI dashboard provides a comprehensive overview of healthcare facility
 
 ## How to Use
 
-1. **Download Power BI Desktop:** [Link to Power BI Desktop download]
+1. **Download Power BI Desktop:**
 2. **Open the PBIX file:** Open the `healthcare_dashboard.pbix` file in Power BI Desktop.
-3. **Connect to data sources:** If necessary, connect to the required data sources (e.g., Excel, CSV, SQL).
+3. **Connect to data sources:** Connect to the required data sources. (Source: https://data.world/chhs/2417ea23-4b40-4953-b98d-6e26bc895a70) (e.g., Excel, CSV, SQL).
 4. **Refresh data:** Refresh the data to ensure the dashboard displays the latest information.
 
 ## Features
